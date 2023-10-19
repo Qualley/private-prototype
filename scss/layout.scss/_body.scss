@@ -3,9 +3,12 @@ body {
     min-height: 100dvh;
     width: 100%;
     overflow-x: hidden;
-    background-color: black;
     display: flex; 
     align-items: center;
     justify-content: center;
     flex-direction: row;
+
+    .mobile_download_prompt--overlay--Xsp5l {
+        background-color: pink;
+    }
 }
